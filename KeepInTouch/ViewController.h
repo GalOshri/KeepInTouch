@@ -1,13 +1,17 @@
 //
 //  ViewController.h
-//  KeepInTouch
+//  KitSample
 //
-//  Created by Gal Oshri on 3/29/14.
-//  Copyright (c) 2014 BT601. All rights reserved.
+//  Created by Gal Oshri on 12/29/13.
+//  Copyright (c) 2013 BT601. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
+#import "ContactCellDelegate.h"
+#import <MessageUI/MessageUI.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITableViewDataSource, UITableViewDelegate, ContactCellDelegate, MFMailComposeViewControllerDelegate, MFMessageComposeViewControllerDelegate>
+
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
 
 @end

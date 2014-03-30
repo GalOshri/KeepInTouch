@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  KeepInTouch
+//  KitSample
 //
-//  Created by Gal Oshri on 3/29/14.
-//  Copyright (c) 2014 BT601. All rights reserved.
+//  Created by Gal Oshri on 12/29/13.
+//  Copyright (c) 2013 BT601. All rights reserved.
 //
 
 #import "AppDelegate.h"

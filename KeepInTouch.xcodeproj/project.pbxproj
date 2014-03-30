@@ -21,6 +21,12 @@
 		0DF3D9D618E7EB1A00F39874 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF3D9B818E7EB1900F39874 /* UIKit.framework */; };
 		0DF3D9DE18E7EB1A00F39874 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0DF3D9DC18E7EB1A00F39874 /* InfoPlist.strings */; };
 		0DF3D9E018E7EB1A00F39874 /* KeepInTouchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF3D9DF18E7EB1A00F39874 /* KeepInTouchTests.m */; };
+		0DF3D9F718E7EBCF00F39874 /* Contact.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF3D9EA18E7EBCF00F39874 /* Contact.m */; };
+		0DF3D9F818E7EBCF00F39874 /* ContactCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF3D9EC18E7EBCF00F39874 /* ContactCell.m */; };
+		0DF3D9F918E7EBCF00F39874 /* ContactList.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF3D9EF18E7EBCF00F39874 /* ContactList.m */; };
+		0DF3D9FA18E7EBCF00F39874 /* ContactListCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF3D9F118E7EBCF00F39874 /* ContactListCell.m */; };
+		0DF3D9FB18E7EBCF00F39874 /* ContactListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF3D9F318E7EBCF00F39874 /* ContactListView.m */; };
+		0DF3D9FC18E7EBCF00F39874 /* ContactView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF3D9F518E7EBCF00F39874 /* ContactView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +59,20 @@
 		0DF3D9DB18E7EB1A00F39874 /* KeepInTouchTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KeepInTouchTests-Info.plist"; sourceTree = "<group>"; };
 		0DF3D9DD18E7EB1A00F39874 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0DF3D9DF18E7EB1A00F39874 /* KeepInTouchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeepInTouchTests.m; sourceTree = "<group>"; };
+		0DF3D9E918E7EBCF00F39874 /* Contact.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Contact.h; sourceTree = "<group>"; };
+		0DF3D9EA18E7EBCF00F39874 /* Contact.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Contact.m; sourceTree = "<group>"; };
+		0DF3D9EB18E7EBCF00F39874 /* ContactCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactCell.h; sourceTree = "<group>"; };
+		0DF3D9EC18E7EBCF00F39874 /* ContactCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactCell.m; sourceTree = "<group>"; };
+		0DF3D9ED18E7EBCF00F39874 /* ContactCellDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactCellDelegate.h; sourceTree = "<group>"; };
+		0DF3D9EE18E7EBCF00F39874 /* ContactList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactList.h; sourceTree = "<group>"; };
+		0DF3D9EF18E7EBCF00F39874 /* ContactList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactList.m; sourceTree = "<group>"; };
+		0DF3D9F018E7EBCF00F39874 /* ContactListCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactListCell.h; sourceTree = "<group>"; };
+		0DF3D9F118E7EBCF00F39874 /* ContactListCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactListCell.m; sourceTree = "<group>"; };
+		0DF3D9F218E7EBCF00F39874 /* ContactListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactListView.h; sourceTree = "<group>"; };
+		0DF3D9F318E7EBCF00F39874 /* ContactListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactListView.m; sourceTree = "<group>"; };
+		0DF3D9F418E7EBCF00F39874 /* ContactView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactView.h; sourceTree = "<group>"; };
+		0DF3D9F518E7EBCF00F39874 /* ContactView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactView.m; sourceTree = "<group>"; };
+		0DF3D9F618E7EBCF00F39874 /* ContactViewDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactViewDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +135,20 @@
 				0DF3D9C318E7EB1900F39874 /* AppDelegate.h */,
 				0DF3D9C418E7EB1900F39874 /* AppDelegate.m */,
 				0DF3D9C618E7EB1900F39874 /* Main.storyboard */,
+				0DF3D9E918E7EBCF00F39874 /* Contact.h */,
+				0DF3D9EA18E7EBCF00F39874 /* Contact.m */,
+				0DF3D9EB18E7EBCF00F39874 /* ContactCell.h */,
+				0DF3D9EC18E7EBCF00F39874 /* ContactCell.m */,
+				0DF3D9ED18E7EBCF00F39874 /* ContactCellDelegate.h */,
+				0DF3D9EE18E7EBCF00F39874 /* ContactList.h */,
+				0DF3D9EF18E7EBCF00F39874 /* ContactList.m */,
+				0DF3D9F018E7EBCF00F39874 /* ContactListCell.h */,
+				0DF3D9F118E7EBCF00F39874 /* ContactListCell.m */,
+				0DF3D9F218E7EBCF00F39874 /* ContactListView.h */,
+				0DF3D9F318E7EBCF00F39874 /* ContactListView.m */,
+				0DF3D9F418E7EBCF00F39874 /* ContactView.h */,
+				0DF3D9F518E7EBCF00F39874 /* ContactView.m */,
+				0DF3D9F618E7EBCF00F39874 /* ContactViewDelegate.h */,
 				0DF3D9C918E7EB1900F39874 /* ViewController.h */,
 				0DF3D9CA18E7EB1900F39874 /* ViewController.m */,
 				0DF3D9CC18E7EB1900F39874 /* Images.xcassets */,
@@ -249,9 +283,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DF3D9FA18E7EBCF00F39874 /* ContactListCell.m in Sources */,
+				0DF3D9F918E7EBCF00F39874 /* ContactList.m in Sources */,
+				0DF3D9F818E7EBCF00F39874 /* ContactCell.m in Sources */,
+				0DF3D9F718E7EBCF00F39874 /* Contact.m in Sources */,
 				0DF3D9CB18E7EB1900F39874 /* ViewController.m in Sources */,
 				0DF3D9C518E7EB1900F39874 /* AppDelegate.m in Sources */,
+				0DF3D9FC18E7EBCF00F39874 /* ContactView.m in Sources */,
 				0DF3D9C118E7EB1900F39874 /* main.m in Sources */,
+				0DF3D9FB18E7EBCF00F39874 /* ContactListView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
