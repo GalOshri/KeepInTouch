@@ -500,6 +500,7 @@
 				0DF3D9E518E7EB1A00F39874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0DF3D9E618E7EB1A00F39874 /* Build configuration list for PBXNativeTarget "KeepInTouchTests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +509,7 @@
 				0DF3D9E818E7EB1A00F39874 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

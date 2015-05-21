@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D080F7B3-2DE6-432A-8FCB-9A173BF1D73B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KeepInTouch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7F717F9008A79D244E1D31B385BFF9B040860AEF</key>
+		<string>https://github.com/GalOshri/KeepInTouch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KeepInTouch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7F717F9008A79D244E1D31B385BFF9B040860AEF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GalOshri/KeepInTouch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F717F9008A79D244E1D31B385BFF9B040860AEF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F717F9008A79D244E1D31B385BFF9B040860AEF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KeepInTouch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
